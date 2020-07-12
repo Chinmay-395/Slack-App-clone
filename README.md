@@ -4,7 +4,11 @@
 
 Django  +  Django-Rest-Framework => handling restAPIs
         |
+        |
+        |
         +  Django-Channels       => handling websockets
+        |
+        |
         |
         +  Django-OAuth2         => For authentications
 
